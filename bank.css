@@ -48,8 +48,8 @@ li{
     background-color: #7BC9FF;
 }
 .addButton:hover{
-    background-color: aliceblue;
-    color: green;
+    background-color: green;
+    color: aliceblue;
 }
 .info{
     position: relative;
@@ -120,4 +120,8 @@ input{
     height: 65px;
     border: none;
     background-color: #7BC9FF;
+}
+.sendButton:hover{
+    background-color: #E72929;
+    color: white;
 }
